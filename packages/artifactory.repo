@@ -1,0 +1,8 @@
+[Artifactory]
+name=Artifactory
+retries=2
+baseurl=http://lvsartifacts.test.nimblestorage.com/artifactory/rpm
+http://houartifacts.storefrontremote.com/artifactory/rpm
+enabled=1
+gpgcheck=0
+
